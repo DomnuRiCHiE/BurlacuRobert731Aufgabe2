@@ -36,11 +36,11 @@ public class UI {
             switch (input) {
                 case "1":
                     menuCRUD();
-                    //switchCrudMedikamente();
+                    switchCrudMedikamente();
                     break;
                 case "2":
                     menuCRUD();
-                    //switchCrudPatienten();
+                    switchCrudPatienten();
                     break;
                 case "3":
                     System.out.println();
